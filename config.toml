@@ -1,4 +1,4 @@
-baseURL = 'http://C0ByX/hugoSite.io'
+baseURL = 'http://c0byx/HugoTest.github.io'
 languageCode = 'ru-ru'
 title = 'Дизайн Bonfire'
 theme = "hugo-book" 

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Дизайн Bonfire</title>
-    <link>http://C0ByX/HugoTest.github.io/tags/</link>
+    <link>http://c0byx/HugoTest.github.io/tags/</link>
     <description>Recent content in Tags on Дизайн Bonfire</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language><atom:link href="http://C0ByX/HugoTest.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ru</language><atom:link href="http://c0byx/HugoTest.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
