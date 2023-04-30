@@ -2,3 +2,5 @@ baseURL = 'https://c0byx.github.io/HugoDesign/'
 languageCode = 'ru-ru'
 title = 'Дизайн Bonfire'
 theme = "hugo-book" 
+[params]
+    BookTheme = 'dark'
