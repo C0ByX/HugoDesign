@@ -2,16 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://c0byx.github.io/HugoDesign/posts/first/</loc>
-    <lastmod>2023-04-25T18:47:59+03:00</lastmod>
-  </url><url>
-    <loc>https://c0byx.github.io/HugoDesign/posts/</loc>
-    <lastmod>2023-04-25T18:47:59+03:00</lastmod>
+    <loc>https://c0byx.github.io/HugoDesign/docs/introduction/</loc>
   </url><url>
     <loc>https://c0byx.github.io/HugoDesign/</loc>
-    <lastmod>2023-04-25T18:47:59+03:00</lastmod>
+  </url><url>
+    <loc>https://c0byx.github.io/HugoDesign/docs/introduction/subtit/</loc>
+  </url><url>
+    <loc>https://c0byx.github.io/HugoDesign/docs/introduction/buttons/</loc>
+  </url><url>
+    <loc>https://c0byx.github.io/HugoDesign/docs/introduction/details/</loc>
+  </url><url>
+    <loc>https://c0byx.github.io/HugoDesign/docs/introduction/html/</loc>
   </url><url>
     <loc>https://c0byx.github.io/HugoDesign/categories/</loc>
+  </url><url>
+    <loc>https://c0byx.github.io/HugoDesign/docs/</loc>
   </url><url>
     <loc>https://c0byx.github.io/HugoDesign/tags/</loc>
   </url>
