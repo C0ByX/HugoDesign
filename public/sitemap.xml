@@ -2,17 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://c0byx.github.io/HugoDesign/docs/introduction/</loc>
+    <loc>https://c0byx.github.io/HugoDesign/docs/platform/</loc>
   </url><url>
     <loc>https://c0byx.github.io/HugoDesign/</loc>
   </url><url>
+    <loc>https://c0byx.github.io/HugoDesign/docs/introduction/details/</loc>
+  </url><url>
+    <loc>https://c0byx.github.io/HugoDesign/docs/platform/details/</loc>
+  </url><url>
+    <loc>https://c0byx.github.io/HugoDesign/docs/introduction/</loc>
+  </url><url>
     <loc>https://c0byx.github.io/HugoDesign/docs/introduction/subtit/</loc>
+  </url><url>
+    <loc>https://c0byx.github.io/HugoDesign/docs/platform/subtit/</loc>
   </url><url>
     <loc>https://c0byx.github.io/HugoDesign/docs/introduction/buttons/</loc>
   </url><url>
-    <loc>https://c0byx.github.io/HugoDesign/docs/introduction/details/</loc>
+    <loc>https://c0byx.github.io/HugoDesign/docs/platform/buttons/</loc>
   </url><url>
     <loc>https://c0byx.github.io/HugoDesign/docs/introduction/html/</loc>
+  </url><url>
+    <loc>https://c0byx.github.io/HugoDesign/docs/platform/html/</loc>
   </url><url>
     <loc>https://c0byx.github.io/HugoDesign/categories/</loc>
   </url><url>

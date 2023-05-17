@@ -1,7 +1,7 @@
 ---
 weight: 10
 bookFlatSection: true
-title: "Введение"
+title: "Платформа"
 ---
 
 # Дизайн-система
