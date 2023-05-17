@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Дизайн-система on Дизайн Bonfire</title>
+    <title>Дизайн-система on </title>
     <link>https://c0byx.github.io/HugoDesign/</link>
-    <description>Recent content in Дизайн-система on Дизайн Bonfire</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language><atom:link href="https://c0byx.github.io/HugoDesign/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Дизайн-система on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://c0byx.github.io/HugoDesign/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>сабзаг</title>
+      <title>Как пользоваться этим гайдом</title>
+      <link>https://c0byx.github.io/HugoDesign/docs/introduction/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://c0byx.github.io/HugoDesign/docs/introduction/details/</guid>
+      <description>Details#Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.
+Example#{{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} TitleMarkdown content#Lorem markdownum insigne&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Как пользоваться этим гайдом</title>
+      <link>https://c0byx.github.io/HugoDesign/docs/platform/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://c0byx.github.io/HugoDesign/docs/platform/details/</guid>
+      <description>Details#Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.
+Example#{{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} TitleMarkdown content#Lorem markdownum insigne&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Состав дизайн-системы</title>
       <link>https://c0byx.github.io/HugoDesign/docs/introduction/subtit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -19,7 +38,19 @@ De fumos illa foret</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Состав дизайн-системы</title>
+      <link>https://c0byx.github.io/HugoDesign/docs/platform/subtit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://c0byx.github.io/HugoDesign/docs/platform/subtit/</guid>
+      <description>Дизайн-система#Зачем это#Lorem markdownum, a quoque nutu est quodcumque mandasset veluti. Passim inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum novabis fallit de nubibus atque silvas mihi. Dixit repetitaque Quid; verrit longa; sententia mandat quascumque nescio solebat litore; noctes. Hostem haerentem circuit plenaque tamen.
+Pedum ne indigenae finire invergens carpebat
+Velit posses summoque
+De fumos illa foret</description>
+    </item>
+    
+    <item>
+      <title>Цель</title>
       <link>https://c0byx.github.io/HugoDesign/docs/introduction/buttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -29,13 +60,13 @@ Example#{{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#
     </item>
     
     <item>
-      <title></title>
-      <link>https://c0byx.github.io/HugoDesign/docs/introduction/details/</link>
+      <title>Цель</title>
+      <link>https://c0byx.github.io/HugoDesign/docs/platform/buttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://c0byx.github.io/HugoDesign/docs/introduction/details/</guid>
-      <description>Details#Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.
-Example#{{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} TitleMarkdown content#Lorem markdownum insigne&amp;hellip;</description>
+      <guid>https://c0byx.github.io/HugoDesign/docs/platform/buttons/</guid>
+      <description>Buttons#Buttons are styled links that can lead to local page or external link.
+Example#{{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}} Get HomeContribute</description>
     </item>
     
     <item>
@@ -44,6 +75,16 @@ Example#{{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://c0byx.github.io/HugoDesign/docs/introduction/html/</guid>
+      <description>Columns#Columns help organize shorter pieces of content horizontally for readability.
+{{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example#Left Content#Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://c0byx.github.io/HugoDesign/docs/platform/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://c0byx.github.io/HugoDesign/docs/platform/html/</guid>
       <description>Columns#Columns help organize shorter pieces of content horizontally for readability.
 {{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example#Left Content#Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
     </item>
